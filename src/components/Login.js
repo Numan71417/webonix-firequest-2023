@@ -20,7 +20,7 @@ export default function Login() {
           }
     }
   return (
-    <div className='container z-depth-2 white br1' style={{maxWidth:'500px', padding:'30px', marginTop:'7px'}}>
+    <div className='container z-depth-2 white br1' style={{maxWidth:'500px', padding:'30px', marginTop:'37px'}}>
       <h3 className='center'>Please Login</h3>
       <form onSubmit={(e)=>handleSubmit(e)}>
       <div class="input-field ">

@@ -1,7 +1,6 @@
 body{
-  background: url(https://wallpaperaccess.com/full/1378075.jpg);
-  background-repeat: no-repeat ;
-  background-size: cover;
+  background: rgb(105,186,70);
+  background: linear-gradient(315deg, rgba(105,186,70,1) 0%, rgba(81,209,139,1) 78%);
   /* box-shadow: inset 0 0 10px 10000px black; */
 }
 
